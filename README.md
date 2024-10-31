@@ -7,6 +7,8 @@
 
 - 🗿 Projek gabuts [Website Oh The Neptune](https://ohtheneptune.netlify.app/)
 
+- ⭐ Portofolio 2024 [cvndraa24 portofolio](https://cokvrindaa.github.io/portofolio24/)
+
 - 🎮 Old Game [Ijo Adventure](https://cv-dev.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
