@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cokvrindaa&label=Profile%20views&color=0e75b6&style=flat" alt="cokvrindaa" /> </p>
 
-- 🌱 Baru nyoba **html, css, js, tailwind, bootstrap**
+- 🌱 Baru nyoba **html, css, js, tailwind, bootstrap sedikit php,react, esp belum menguasai si :v**
 
 - 🗿 Projek gabuts [Website Oh The Neptune](https://ohtheneptune.netlify.app/)
 
