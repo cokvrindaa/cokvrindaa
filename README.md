@@ -1,21 +1,54 @@
-<h1 align="center">Hi👋, nama ku.. Cok Vrinda</h1>
-<h3 align="center">Cuman iseng iseng aja 🗿🗿🤓</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cokvrindaa&label=Profile%20views&color=0e75b6&style=flat" alt="cokvrindaa" /> </p>
+<h3 align="center">Halooooooo👋</h3>
 
-- 🌱  **Web and IOT dev pemula :v**
+###
 
+<img align="right" height="200" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/ohtheneptune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ohtheneptune" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h4 align="left">bukan developer, tapi otw calonya..</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cokvrindaa&show_icons=true&locale=en&layout=compact" alt="cokvrindaa" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cokvrindaa&show_icons=true&locale=en" alt="cokvrindaa" /></p>
+<p align="left">👤 Cokorda Vrindavan Chandra Dasa (Cok Vrinda)<br>🎓 Pelajar SMK – Jurusan RPL<br>💻 Mengembangkan website & IoT sederhana</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cokvrindaa&" alt="cokvrindaa" /></p>
+###
+
+<h6 align="left">Perkakas ngodingg yang saya gunakan:</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cokvrindaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cokvrindaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cokvrindaa/cokvrindaa/output/snake.svg" alt="Snake animation" />
+
+###
