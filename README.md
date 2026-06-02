@@ -11,6 +11,6 @@
 ###
 
 <h2 align="left">TOOLS</h2>
- <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,react,cpp,figma">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,react,cpp,figma">
 
 ###
