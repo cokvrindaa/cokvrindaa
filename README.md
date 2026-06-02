@@ -13,10 +13,3 @@
 <h2 align="left">TOOLS</h2>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cokvrindaa/cokvrindaa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/cokvrindaa/cokvrindaa/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
