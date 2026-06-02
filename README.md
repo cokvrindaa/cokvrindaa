@@ -10,7 +10,8 @@
 
 ###
 
-<h2 align="left">TOOLS</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,react,cpp,figma">
+<h2 align="left">Tools, Language and Markup</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,react,cpp,figma,arduino">
+
 
 ###
